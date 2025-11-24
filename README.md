@@ -132,4 +132,4 @@ Files:
 
 **Gurdeep Singh**  
 _Data Analyst — Python | SQL | BI Dashboards_
-
+_https://www.linkedin.com/in/gurdeepsinghere/_
